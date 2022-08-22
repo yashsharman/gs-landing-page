@@ -487,7 +487,7 @@ input {
 
 /* --------------------------------------Mobile Resposive------------------------------------- */
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1000px) {
   .intro {
     display: flex;
     flex-direction: column;
